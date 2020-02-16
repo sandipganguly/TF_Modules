@@ -1,7 +1,7 @@
 variable "ami" {
   type = string
-  #default ="ami-0e8c04af2729ff1bb"
-  default = ""
+  default ="ami-0e8c04af2729ff1bb"
+  #default = ""
 }
 
 variable "region" {
